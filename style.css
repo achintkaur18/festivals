@@ -6,12 +6,15 @@ h1 {
 }
 
 body {
-    background: rgb(210, 117, 233);
+    background: rgb(15, 15, 48);
 }
 
-
+strong { 
+    font-weight: bold;
+}
 
 #heading {
+    color: aliceblue;
     text-align: center;
     font-size: 4em;
 }
